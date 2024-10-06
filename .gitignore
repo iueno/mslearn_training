@@ -1,1 +1,3 @@
 .DS_Store
+build-web-api-aspnet-core/ContosoPizza/bin
+build-web-api-aspnet-core/ContosoPizza/obj
